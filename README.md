@@ -1,7 +1,7 @@
 # End to End E-Commerce Data Engineering Project 💳
 ## Powered by Azure and Databricks
 
-![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM5b2dkc2k1ZXJ6OTR5aGNpcHpieHJocjM2M2ZmenFiOXBob2hkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fryY00CO4xCz4uJuDQ/giphy.gif)<br>
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJzYzJsM2pxZGR4eGx1ZXJuMnRpOGZ2azRpOXFzb3k3bm03aHAwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xig23UttwwCSJCa2Lh/giphy.gif)<br>
 
 ## Table of Contents
 
